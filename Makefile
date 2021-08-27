@@ -14,7 +14,7 @@ NAME			= push_swap
 
 LIBFT			= libft.a
 
-LIBFT_DIR		= ./libft/
+LIBFT_DIR		= ./Libft/
 
 SRCS			= push_swap.c \
 					operations.c \
